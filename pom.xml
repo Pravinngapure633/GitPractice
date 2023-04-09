@@ -25,7 +25,8 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
+			<scope>runtime</scope>
+			<version>5.12</version>
 		</dependency>
 	</dependencies>
 
